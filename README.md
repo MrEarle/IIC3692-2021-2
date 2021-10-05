@@ -10,6 +10,10 @@ Profesor | Alvaro Soto | asoto@ing.puc.cl
 Ayudante | Francisca Cattan | fpcattan@uc.cl
 Ayudante | Benjamin Earle | biearle@uc.cl
 
+## Críticas Destacadas
+
+En [CriticasDestacadas](CriticasDestacadas/) encontrarán algunas críticas destacadas por nosotros como ejemplo.
+
 ## Instalación R2R
 
 En [instalacionR2R.ipynb](InstalacionR2R/InstalacionR2R.ipynb) encontrarán un ejemplo de instalación de R2R (del cual se deriva RxR).
